@@ -15,7 +15,7 @@ This project aims to develop a machine learning-based early warning system for p
 - **Cognitive Assessments**: MMSE, Functional Assessment, Memory Complaints  
 - **Symptoms**: Confusion, Disorientation, Personality Changes  
 
-## 🛠 Methodology  
+##  Methodology  
 ### 1. Data Preprocessing  
 - Handled missing values (mean/mode imputation)  
 - Removed duplicates  
